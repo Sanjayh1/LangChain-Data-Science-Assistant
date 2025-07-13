@@ -1,4 +1,4 @@
-# LangChain-Data-Science-Assistant
+# LangChain Data Science Assistant
 
 This repository contains a case study exploring the development of a Data Science Assistant powered by Large Language Models (LLMs) and the LangChain framework.
 
